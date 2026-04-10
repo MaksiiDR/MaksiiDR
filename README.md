@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3178C6&center=true&vCenter=true&width=650&height=60&lines=Hey%2C+I'm+Maximiliano!+%F0%9F%91%8B;Computer+Science+%40+USM+Chile;Building+things+that+matter...;Linux+%7C+Python+%7C+TypeScript+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3178C6&center=true&vCenter=true&width=650&height=60&lines=Hey%2C+I'm+Maximiliano!+%F0%9F%91%8B;Computer+Engineer;Building+things+that+matter...;Linux+%7C+Python+%7C+TypeScript+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
 
@@ -16,7 +16,7 @@
 ```python
 class Maximiliano:
     def __init__(self):
-        self.role     = "Computer Engineering Student @ USM"
+        self.role     = "Computer Engineer"
         self.focus    = ["Web Dev", "Linux SysAdmin", "AI/ML"]
         self.hobbies  = ["🎮 Gaming", "🎵 Music", "💻 Coding"]
         self.motto    = "Build. Break. Learn. Repeat."
