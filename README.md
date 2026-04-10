@@ -42,15 +42,7 @@
   </a>
 </p>
 
----
 
-<h2 align="center">My Contribution Graph 🐍</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaksiiDR/MaksiiDR/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
 
 <h2 align="center">GitHub Stats <img src="./images/laptop.gif" width="50"></h2>
 
