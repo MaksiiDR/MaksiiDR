@@ -1,81 +1,54 @@
-<div align="center">
+### [SYSTEM_IDENTIFICATION]
+> ALIAS: MaksiiDR\
+> DESIGNATION: Computer Engineer & Full-Stack Developer\
+> LOCATION: Chile 🇨🇱\
+> STATUS: ONLINE
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3178C6&center=true&vCenter=true&width=650&height=60&lines=Hey%2C+I'm+Maximiliano!+%F0%9F%91%8B;Computer+Engineer;Building+things+that+matter...;Linux+%7C+Python+%7C+TypeScript+%F0%9F%9A%80" alt="Typing SVG" /></a>
-
-</div>
+Code is infrastructure. I build full-stack systems, deploy Linux servers, and engineer AI-powered applications that operate in the real world. From scalable web backends to computer vision pipelines, my objective is to ship software that solves actual problems — not demos.
 
 ---
 
-### 🔭 What I'm About
+### [CURRENT_DIRECTIVES]
 
-<table>
-<tr>
-<td>
+Developing platforms and intelligent systems at the intersection of software engineering and real-world domain problems.
 
-```python
-class Maximiliano:
-    def __init__(self):
-        self.role     = "Computer Engineer"
-        self.focus    = ["Web Dev", "Linux SysAdmin", "AI/ML"]
-        self.hobbies  = ["🎮 Gaming", "🎵 Music", "💻 Coding"]
-        self.motto    = "Build. Break. Learn. Repeat."
+**DEPLOYED SYSTEMS:**
 
-    def current_stack(self):
-        return {
-            "languages": ["Python", "TypeScript", "SQL", "C++"],
-            "infra":     ["Linux", "Apache", "HAProxy", "MySQL"],
-            "tools":     ["Git", "WordPress", "Power BI", "VSCode"]
-        }
+* [**MINDUP**](https://github.com/MaksiiDR/mindup): Mental health web platform. Full-stack TypeScript architecture with modern frontend and robust backend services.
+* [**CV-GEN**](https://github.com/MaksiiDR/cv-gen): Automated CV generator. TypeScript-based engine designed to produce clean, professional resumes programmatically.
+
+**PENDING DEPLOYMENT:**
+
+* **CuidaMed:** Real-time medical emergency detection system using facial recognition and computer vision. Stack: Python · OpenCV · MediaPipe · DeepFace.
+* **TutorPAES:** Educational backend platform for university entrance exam preparation. REST API services and relational database integration.
+* **Maritime AIS Monitor:** Data analysis system for vessel tracking and anomaly detection in Chilean territorial waters (ZEE).
+
+---
+
+### [ARSENAL]
+
+```
+LANGUAGES  →  Python · TypeScript · JavaScript · SQL · C++
+INFRA      →  Linux · Apache · HAProxy · MySQL · SSH
+TOOLS      →  Git · WordPress · Power BI · VSCode · OpenCV
 ```
 
-</td>
-</tr>
-</table>
-
 ---
 
-### 🛠 Tech Stack
+### [OPERATIONAL_METRICS]
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3178C6?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3178C6?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-3178C6?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-222222?style=for-the-badge&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-222222?style=for-the-badge&logo=wordpress&logoColor=white)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=MaksiiDR&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksiiDR&layout=compact&theme=chartreuse-dark&hide_border=true&count_private=true" height="150"/>
 </div>
 
 ---
 
-### 🌎 About Me
-
-| 🗣️ Languages | ⚡ Beyond the Code |
-|---|---|
-| 🇪🇸 Spanish (Native) | 🎮 Gaming — strategy & open world |
-| 🇬🇧 English (Intermediate) | 🎵 Music — always on a new playlist |
-| 💻 Code (Always learning) | 📺 Tech — building things that matter |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaksiiDR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksiiDR&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-</div>
-
----
+> "Don't just use the tools. Build them."
 
 <div align="center">
 
-*"Build. Break. Learn. Repeat."* 🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-marcelo-del-rio-linconir)
-[![GitHub](https://img.shields.io/badge/GitHub-3178C6?style=flat-square&logo=github&logoColor=white)](https://github.com/MaksiiDR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=39ff14)](https://www.linkedin.com/in/maximiliano-marcelo-del-rio-linconir)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=39ff14)](https://github.com/MaksiiDR)
 
 </div>
