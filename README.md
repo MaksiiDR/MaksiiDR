@@ -10,23 +10,31 @@
 
 ---
 
+<p align="center">
+  🎓 <strong>Computer Engineering Student @ USM Chile</strong><br/>
+  Focused on <strong>Innovation</strong>, <strong>Artificial Intelligence</strong> and currently developing my <strong>thesis project</strong>.
+</p>
+
+---
+
 <h2 align="center">Technology Stack 💻</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-E53935?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-E53935?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-E53935?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-E53935?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-E53935?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-E53935?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-1a1a2e?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-1a1a2e?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=white"/>
 </p>
 
 ---
@@ -35,18 +43,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maximiliano-marcelo-del-rio-linconir">
-    <img src="https://img.shields.io/badge/-Maximiliano Del Rio-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-E53935?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/MaksiiDR">
-    <img src="https://img.shields.io/badge/-MaksiiDR-black?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-
+---
 
 <h2 align="center">GitHub Stats <img src="./images/laptop.gif" width="50"></h2>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaksiiDR&show_icons=true&theme=radical&line_height=27&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksiiDR&hide=html,css&theme=radical&count_private=true"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksiiDR&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
