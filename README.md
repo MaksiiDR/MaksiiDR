@@ -26,8 +26,6 @@
   <img src="https://img.shields.io/badge/C++-E53935?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-E53935?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-E53935?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-1a1a2e?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-1a1a2e?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache-1a1a2e?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -54,10 +52,7 @@
 
 <h2 align="center">GitHub Stats <img src="./images/laptop.gif" width="50"></h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaksiiDR&show_icons=true&theme=radical&line_height=27&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksiiDR&hide=html,css&theme=radical&count_private=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksiiDR&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
