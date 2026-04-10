@@ -40,11 +40,6 @@
 
 ---
 
-<h2 align="center">My Contribution Graph 🐍</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaksiiDR/MaksiiDR/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
 
 ---
 
