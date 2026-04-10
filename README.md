@@ -2,7 +2,11 @@
   <img src="./images/header.jpeg" alt="Header" width="100%"/>
 </p>
 
-
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/MaksiiDR/MaksiiDR"/>
+  <img src="https://badges.pufler.dev/repos/MaksiiDR"/>
+  <img src="https://badges.pufler.dev/commits/monthly/MaksiiDR"/>
+</p>
 
 ---
 
@@ -40,10 +44,15 @@
 
 ---
 
+<h2 align="center">My Contribution Graph 🐍</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaksiiDR/MaksiiDR/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 ---
 
-<h2 align="center">GitHub Stats 📊</h2>
+<h2 align="center">GitHub Stats <img src="./images/laptop.gif" width="50"></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaksiiDR&show_icons=true&theme=radical&line_height=27&count_private=true"/>
