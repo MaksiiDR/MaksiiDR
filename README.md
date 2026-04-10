@@ -2,11 +2,7 @@
   <img src="./images/header.jpeg" alt="Header" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/MaksiiDR/MaksiiDR"/>
-  <img src="https://badges.pufler.dev/repos/MaksiiDR"/>
-  <img src="https://badges.pufler.dev/commits/monthly/MaksiiDR"/>
-</p>
+
 
 ---
 
