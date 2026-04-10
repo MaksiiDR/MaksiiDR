@@ -18,7 +18,7 @@ class Maximiliano:
     def __init__(self):
         self.role     = "Computer Engineering Student @ USM"
         self.focus    = ["Web Dev", "Linux SysAdmin", "AI/ML"]
-        self.hobbies  = ["🎮 Gaming", "🏃 Running", "📺 Anime"]
+        self.hobbies  = ["🎮 Gaming", "🎵 Music", "💻 Coding"]
         self.motto    = "Build. Break. Learn. Repeat."
 
     def current_stack(self):
@@ -57,8 +57,8 @@ class Maximiliano:
 | 🗣️ Languages | ⚡ Beyond the Code |
 |---|---|
 | 🇪🇸 Spanish (Native) | 🎮 Gaming — strategy & open world |
-| 🇬🇧 English (Intermediate) | 🏃 Running — building that base km by km |
-| 💻 Code (Always learning) | 📺 Anime — always on a new season |
+| 🇬🇧 English (Intermediate) | 🎵 Music — always on a new playlist |
+| 💻 Code (Always learning) | 📺 Tech — building things that matter |
 
 ---
 
