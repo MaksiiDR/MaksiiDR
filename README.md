@@ -1,54 +1,67 @@
-### [SYSTEM_IDENTIFICATION]
-> ALIAS: MaksiiDR\
-> DESIGNATION: Computer Engineer & Full-Stack Developer\
-> LOCATION: Chile 🇨🇱\
-> STATUS: ONLINE
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F700FF&center=true&vCenter=true&width=700&height=70&lines=Hey+there!+I'm+Maximiliano+%F0%9F%91%8B;Computer+Engineer+%7C+Full-Stack+Dev;Python+%7C+TypeScript+%7C+Linux+%F0%9F%9A%80;Building+things+that+matter..." alt="Typing SVG" />
+</p>
 
-Code is infrastructure. I build full-stack systems, deploy Linux servers, and engineer AI-powered applications that operate in the real world. From scalable web backends to computer vision pipelines, my objective is to ship software that solves actual problems — not demos.
-
----
-
-### [CURRENT_DIRECTIVES]
-
-Developing platforms and intelligent systems at the intersection of software engineering and real-world domain problems.
-
-**DEPLOYED SYSTEMS:**
-
-* [**MINDUP**](https://github.com/MaksiiDR/mindup): Mental health web platform. Full-stack TypeScript architecture with modern frontend and robust backend services.
-* [**CV-GEN**](https://github.com/MaksiiDR/cv-gen): Automated CV generator. TypeScript-based engine designed to produce clean, professional resumes programmatically.
-
-**PENDING DEPLOYMENT:**
-
-* **CuidaMed:** Real-time medical emergency detection system using facial recognition and computer vision. Stack: Python · OpenCV · MediaPipe · DeepFace.
-* **TutorPAES:** Educational backend platform for university entrance exam preparation. REST API services and relational database integration.
-* **Maritime AIS Monitor:** Data analysis system for vessel tracking and anomaly detection in Chilean territorial waters (ZEE).
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/MaksiiDR/MaksiiDR"/>
+  <img src="https://badges.pufler.dev/repos/MaksiiDR"/>
+  <img src="https://badges.pufler.dev/commits/monthly/MaksiiDR"/>
+</p>
 
 ---
 
-### [ARSENAL]
+<h2 align="center">Technology Stack 💻</h2>
 
-```
-LANGUAGES  →  Python · TypeScript · JavaScript · SQL · C++
-INFRA      →  Linux · Apache · HAProxy · MySQL · SSH
-TOOLS      →  Git · WordPress · Power BI · VSCode · OpenCV
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
-### [OPERATIONAL_METRICS]
+<h2 align="center">Reach me out 📡</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaksiiDR&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksiiDR&layout=compact&theme=chartreuse-dark&hide_border=true&count_private=true" height="150"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/maximiliano-marcelo-del-rio-linconir">
+    <img src="https://img.shields.io/badge/-Maximiliano Del Rio-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MaksiiDR">
+    <img src="https://img.shields.io/badge/-MaksiiDR-black?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> "Don't just use the tools. Build them."
+<h2 align="center">My Contribution Graph 🐍</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaksiiDR/MaksiiDR/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=39ff14)](https://www.linkedin.com/in/maximiliano-marcelo-del-rio-linconir)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=39ff14)](https://github.com/MaksiiDR)
+---
 
-</div>
+<h2 align="center">GitHub Stats 📊</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaksiiDR&show_icons=true&theme=radical&line_height=27&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksiiDR&hide=html,css&theme=radical&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksiiDR&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+</p>
+
+<hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
